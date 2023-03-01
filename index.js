@@ -21,7 +21,7 @@ var newsDataArr = [];
 
 //get the main api url's
 
-const API_KEY = "6a720a4c69204d99a4e4deaaf257a980";
+const API_KEY = "THE_GIVEN_API_KEY";
 const HEADLINES_NEWS = " https://newsapi.org/v2/top-headlines?country=in&apiKey=";
 const BUSINESS_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=";
 const GENERAL_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=";
